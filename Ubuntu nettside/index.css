@@ -1,0 +1,54 @@
+
+body {
+    background-image: url(image/Gym.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+img{
+    margin: auto;
+    display: block;
+}
+
+#LogginnKnapp{
+
+    position:absolute;
+    bottom:50px;
+    right:830px;
+}
+
+#LogginnMann{
+    position:absolute;
+    bottom: 0;
+}
+
+#Bottom{
+    position:absolute;
+    bottom: -100px;
+}
+
+#Landing{
+    position:absolute;
+    bottom: -1180px;
+}
+
+h1{
+    color: #12A8F4;
+    font-size: 100px;
+    position:absolute;
+    bottom: -450px;
+    left: 80px;
+    z-index: 100;
+}
+
+#KnappBakgrunn{
+    position: absolute;
+    bottom: -2200px;
+}
+
+#Knapp{
+    position:absolute;
+    bottom: -1880px;
+    right: 720px;
+}

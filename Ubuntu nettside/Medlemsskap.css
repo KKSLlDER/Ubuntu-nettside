@@ -1,0 +1,43 @@
+body {
+    background-color: #FFFDD0;
+    overflow-x: hidden;
+}
+
+#Top{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#TopLogo{
+    z-index: 2;
+    position:absolute;
+    top: 1px;
+    left: 850px;
+}
+
+h1{
+    position:relative;
+    top: 100px;
+    right: -520px;
+    font-size: 100px;
+    color: #F746A1
+}
+
+#Medlem1{
+    position:relative;
+    left: 370px;
+    top: 100px;
+}
+
+#Medlem2{
+    position:relative;
+    left: -510px;
+    top: 780px;
+}
+
+#Bottom{
+    position:absolute;
+    bottom: -1200px;
+    left: 0px;
+}
